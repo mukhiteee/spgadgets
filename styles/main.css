@@ -333,7 +333,7 @@ body {
 /* ===== Hero Section ===== */
 .hero {
   position: relative;
-  min-height: 600px;
+  min-height: 90vh;
   display: flex;
   align-items: center;
   justify-content: center;
